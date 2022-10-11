@@ -10,9 +10,9 @@ class Solution:
     def cloneGraphNode(self, node: "Node", cloned_nodes={}):
         if node.val not in cloned_nodes: # not yet cloned
             cloned_nodes[node.val] = Node(node.val) # update dict
-            for n in node.neighbors: # clone neighbors
-                self.cloneGraphNode(n, cloned_nodes)
-            cloned_nodes[node.val].neighbors = [cloned_nodes[n.val] for n in node.neighbors] # update neighbors with new refs
+            cloned_nodes[node.val].neighbors = [
+                self.cloneGraphNode(n, cloned_nodes) for n in node.neighbors
+            ] # update neighbors with new refs
         return cloned_nodes[node.val]
         
     
