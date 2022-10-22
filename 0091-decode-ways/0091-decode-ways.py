@@ -2,7 +2,6 @@ class Solution:
     def numDecodings(self, s: str) -> int:
         computed = {}
         def numDecodingsRec(x):
-            print(x)
             if len(x) == 0:
                 return 1
             if x[0] == '0':
