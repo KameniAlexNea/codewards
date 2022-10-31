@@ -5,5 +5,6 @@ class Solution:
         for price in prices:
             if price-current_min_sell >= res:
                 res = price-current_min_sell
-            current_min_sell = min(current_min_sell, price)
+            if price < current_min_sell:
+                current_min_sell = price
         return res
