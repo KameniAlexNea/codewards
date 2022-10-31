@@ -5,7 +5,5 @@ class Solution:
         for line in matrix:
             for i, v in enumerate(line, pos):
                 res[i].add(v)
-                if len(res[i]) != 1:
-                    return False
             pos -= 1
-        return True
+        return all(len(v)==1 for v in res.values())
