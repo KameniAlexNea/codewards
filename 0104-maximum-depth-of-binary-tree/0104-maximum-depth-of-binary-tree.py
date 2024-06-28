@@ -5,8 +5,6 @@
 #         self.left = left
 #         self.right = right
 def maxDepthRec(node, curr):
-    if node is None:
-        return curr
     left = maxDepthRec(node.left, curr + 1) if node.left is not None else curr
     right = maxDepthRec(node.right, curr + 1) if node.right is not None else curr
     return max(left, right)
