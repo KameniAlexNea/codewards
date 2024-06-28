@@ -5,9 +5,10 @@ class Solution:
         mij = dict()
         mji = dict()
         for i, j in zip(s, t):
-            if j not in mji and i not in mij:
+            if (j not in mji) and (i not in mij):
                 mij[i] = j
                 mji[j] = i
-            if mij.get(i) != j or mji.get(j) != i:
+                continue
+            if (mij.get(i) != j) or (mji.get(j) != i):
                 return False
         return True
