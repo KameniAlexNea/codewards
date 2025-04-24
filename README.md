@@ -28,4 +28,16 @@ Code wards participation
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KameniAlexNea/codewards/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0018-4sum](https://github.com/KameniAlexNea/codewards/tree/master/0018-4sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/KameniAlexNea/codewards/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/KameniAlexNea/codewards/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
