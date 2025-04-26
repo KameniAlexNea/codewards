@@ -32,6 +32,7 @@ Code wards participation
 |  |
 | ------- |
 | [0018-4sum](https://github.com/KameniAlexNea/codewards/tree/master/0018-4sum) |
+| [0128-longest-consecutive-sequence](https://github.com/KameniAlexNea/codewards/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KameniAlexNea/codewards/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
@@ -70,4 +71,12 @@ Code wards participation
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/KameniAlexNea/codewards/tree/master/0113-path-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KameniAlexNea/codewards/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KameniAlexNea/codewards/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
