@@ -34,6 +34,7 @@ Code wards participation
 | [0018-4sum](https://github.com/KameniAlexNea/codewards/tree/master/0018-4sum) |
 | [0128-longest-consecutive-sequence](https://github.com/KameniAlexNea/codewards/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KameniAlexNea/codewards/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2586-longest-square-streak-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Code wards participation
 |  |
 | ------- |
 | [0018-4sum](https://github.com/KameniAlexNea/codewards/tree/master/0018-4sum) |
+| [2586-longest-square-streak-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/2586-longest-square-streak-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -55,6 +57,7 @@ Code wards participation
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KameniAlexNea/codewards/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2586-longest-square-streak-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/2586-longest-square-streak-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,8 +78,13 @@ Code wards participation
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KameniAlexNea/codewards/tree/master/0128-longest-consecutive-sequence) |
+| [2586-longest-square-streak-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/2586-longest-square-streak-in-an-array) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KameniAlexNea/codewards/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
