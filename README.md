@@ -32,6 +32,7 @@ Code wards participation
 |  |
 | ------- |
 | [0018-4sum](https://github.com/KameniAlexNea/codewards/tree/master/0018-4sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KameniAlexNea/codewards/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/KameniAlexNea/codewards/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KameniAlexNea/codewards/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/2586-longest-square-streak-in-an-array) |
@@ -65,6 +66,7 @@ Code wards participation
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KameniAlexNea/codewards/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/KameniAlexNea/codewards/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
@@ -73,10 +75,12 @@ Code wards participation
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KameniAlexNea/codewards/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/KameniAlexNea/codewards/tree/master/0113-path-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KameniAlexNea/codewards/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/KameniAlexNea/codewards/tree/master/0128-longest-consecutive-sequence) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/2586-longest-square-streak-in-an-array) |
 ## Union Find
@@ -95,4 +99,8 @@ Code wards participation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KameniAlexNea/codewards/tree/master/0029-divide-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KameniAlexNea/codewards/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
