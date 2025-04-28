@@ -87,4 +87,12 @@ Code wards participation
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/2586-longest-square-streak-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/KameniAlexNea/codewards/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/KameniAlexNea/codewards/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
