@@ -24,6 +24,7 @@ Code wards participation
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KameniAlexNea/codewards/tree/master/0014-longest-common-prefix) |
+| [1777-determine-if-two-strings-are-close](https://github.com/KameniAlexNea/codewards/tree/master/1777-determine-if-two-strings-are-close) |
 ## Trie
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Code wards participation
 |  |
 | ------- |
 | [0018-4sum](https://github.com/KameniAlexNea/codewards/tree/master/0018-4sum) |
+| [1777-determine-if-two-strings-are-close](https://github.com/KameniAlexNea/codewards/tree/master/1777-determine-if-two-strings-are-close) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/2586-longest-square-streak-in-an-array) |
 ## Linked List
 |  |
@@ -84,6 +86,7 @@ Code wards participation
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KameniAlexNea/codewards/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/KameniAlexNea/codewards/tree/master/0128-longest-consecutive-sequence) |
+| [1777-determine-if-two-strings-are-close](https://github.com/KameniAlexNea/codewards/tree/master/1777-determine-if-two-strings-are-close) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/2586-longest-square-streak-in-an-array) |
 ## Union Find
 |  |
@@ -106,4 +109,8 @@ Code wards participation
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KameniAlexNea/codewards/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/KameniAlexNea/codewards/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
