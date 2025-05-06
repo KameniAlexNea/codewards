@@ -40,6 +40,7 @@ Code wards participation
 |  |
 | ------- |
 | [0018-4sum](https://github.com/KameniAlexNea/codewards/tree/master/0018-4sum) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KameniAlexNea/codewards/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KameniAlexNea/codewards/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -50,6 +51,7 @@ Code wards participation
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/KameniAlexNea/codewards/tree/master/0025-reverse-nodes-in-k-group) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KameniAlexNea/codewards/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Recursion
 |  |
 | ------- |
