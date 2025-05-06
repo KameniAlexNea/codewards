@@ -97,6 +97,7 @@ Code wards participation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KameniAlexNea/codewards/tree/master/0029-divide-two-integers) |
+| [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/KameniAlexNea/codewards/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 ## Bit Manipulation
 |  |
 | ------- |
