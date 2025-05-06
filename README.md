@@ -25,6 +25,7 @@ Code wards participation
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KameniAlexNea/codewards/tree/master/0014-longest-common-prefix) |
 | [1777-determine-if-two-strings-are-close](https://github.com/KameniAlexNea/codewards/tree/master/1777-determine-if-two-strings-are-close) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/KameniAlexNea/codewards/tree/master/2536-determine-if-two-events-have-conflict) |
 ## Trie
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Code wards participation
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KameniAlexNea/codewards/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/KameniAlexNea/codewards/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KameniAlexNea/codewards/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/KameniAlexNea/codewards/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
