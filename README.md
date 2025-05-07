@@ -56,6 +56,7 @@ Code wards participation
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/KameniAlexNea/codewards/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KameniAlexNea/codewards/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0445-add-two-numbers-ii](https://github.com/KameniAlexNea/codewards/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Code wards participation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KameniAlexNea/codewards/tree/master/0029-divide-two-integers) |
+| [0445-add-two-numbers-ii](https://github.com/KameniAlexNea/codewards/tree/master/0445-add-two-numbers-ii) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/KameniAlexNea/codewards/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 ## Bit Manipulation
 |  |
@@ -115,4 +117,8 @@ Code wards participation
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/KameniAlexNea/codewards/tree/master/1777-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/KameniAlexNea/codewards/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
