@@ -143,6 +143,7 @@ Code wards participation
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/KameniAlexNea/codewards/tree/master/0445-add-two-numbers-ii) |
+| [0937-online-stock-span](https://github.com/KameniAlexNea/codewards/tree/master/0937-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -168,8 +169,14 @@ Code wards participation
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/KameniAlexNea/codewards/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/KameniAlexNea/codewards/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/KameniAlexNea/codewards/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/KameniAlexNea/codewards/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/KameniAlexNea/codewards/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
