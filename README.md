@@ -49,11 +49,13 @@ Code wards participation
 | [0018-4sum](https://github.com/KameniAlexNea/codewards/tree/master/0018-4sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KameniAlexNea/codewards/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KameniAlexNea/codewards/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/KameniAlexNea/codewards/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/KameniAlexNea/codewards/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/KameniAlexNea/codewards/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/KameniAlexNea/codewards/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/KameniAlexNea/codewards/tree/master/1014-k-closest-points-to-origin) |
 | [1777-determine-if-two-strings-are-close](https://github.com/KameniAlexNea/codewards/tree/master/1777-determine-if-two-strings-are-close) |
@@ -145,6 +147,7 @@ Code wards participation
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/KameniAlexNea/codewards/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/KameniAlexNea/codewards/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/KameniAlexNea/codewards/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
@@ -161,4 +164,12 @@ Code wards participation
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/KameniAlexNea/codewards/tree/master/1014-k-closest-points-to-origin) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/KameniAlexNea/codewards/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/KameniAlexNea/codewards/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
