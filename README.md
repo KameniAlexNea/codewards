@@ -24,6 +24,7 @@ Code wards participation
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KameniAlexNea/codewards/tree/master/0014-longest-common-prefix) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/KameniAlexNea/codewards/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1777-determine-if-two-strings-are-close](https://github.com/KameniAlexNea/codewards/tree/master/1777-determine-if-two-strings-are-close) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/KameniAlexNea/codewards/tree/master/2536-determine-if-two-events-have-conflict) |
 ## Trie
@@ -70,23 +71,27 @@ Code wards participation
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/KameniAlexNea/codewards/tree/master/0113-path-sum-ii) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/KameniAlexNea/codewards/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KameniAlexNea/codewards/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/KameniAlexNea/codewards/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KameniAlexNea/codewards/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/KameniAlexNea/codewards/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/KameniAlexNea/codewards/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KameniAlexNea/codewards/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/KameniAlexNea/codewards/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KameniAlexNea/codewards/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/KameniAlexNea/codewards/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KameniAlexNea/codewards/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/KameniAlexNea/codewards/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Hash Table
 |  |
 | ------- |
