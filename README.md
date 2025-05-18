@@ -183,4 +183,8 @@ Code wards participation
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/KameniAlexNea/codewards/tree/master/0937-online-stock-span) |
+## Concurrency
+|  |
+| ------- |
+| [1186-building-h2o](https://github.com/KameniAlexNea/codewards/tree/master/1186-building-h2o) |
 <!---LeetCode Topics End-->
