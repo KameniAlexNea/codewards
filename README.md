@@ -35,6 +35,7 @@ Code wards participation
 |  |
 | ------- |
 | [0018-4sum](https://github.com/KameniAlexNea/codewards/tree/master/0018-4sum) |
+| [0046-permutations](https://github.com/KameniAlexNea/codewards/tree/master/0046-permutations) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KameniAlexNea/codewards/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/KameniAlexNea/codewards/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KameniAlexNea/codewards/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -80,6 +81,7 @@ Code wards participation
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/KameniAlexNea/codewards/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/KameniAlexNea/codewards/tree/master/0113-path-sum-ii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KameniAlexNea/codewards/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Tree
