@@ -36,6 +36,7 @@ Code wards participation
 | ------- |
 | [0018-4sum](https://github.com/KameniAlexNea/codewards/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/KameniAlexNea/codewards/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/KameniAlexNea/codewards/tree/master/0047-permutations-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KameniAlexNea/codewards/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/KameniAlexNea/codewards/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KameniAlexNea/codewards/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -56,6 +57,7 @@ Code wards participation
 |  |
 | ------- |
 | [0018-4sum](https://github.com/KameniAlexNea/codewards/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/KameniAlexNea/codewards/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/KameniAlexNea/codewards/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/KameniAlexNea/codewards/tree/master/0295-find-median-from-data-stream) |
@@ -82,6 +84,7 @@ Code wards participation
 |  |
 | ------- |
 | [0046-permutations](https://github.com/KameniAlexNea/codewards/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/KameniAlexNea/codewards/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/KameniAlexNea/codewards/tree/master/0113-path-sum-ii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KameniAlexNea/codewards/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Tree
