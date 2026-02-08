@@ -25,6 +25,7 @@ Code wards participation
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KameniAlexNea/codewards/tree/master/0014-longest-common-prefix) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KameniAlexNea/codewards/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/KameniAlexNea/codewards/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/KameniAlexNea/codewards/tree/master/1777-determine-if-two-strings-are-close) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/KameniAlexNea/codewards/tree/master/2536-determine-if-two-events-have-conflict) |
 ## Trie
@@ -130,6 +131,7 @@ Code wards participation
 | [0029-divide-two-integers](https://github.com/KameniAlexNea/codewards/tree/master/0029-divide-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/KameniAlexNea/codewards/tree/master/0445-add-two-numbers-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/KameniAlexNea/codewards/tree/master/1014-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/KameniAlexNea/codewards/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/KameniAlexNea/codewards/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 ## Bit Manipulation
 |  |
