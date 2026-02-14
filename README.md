@@ -44,6 +44,7 @@ Code wards participation
 | [0215-kth-largest-element-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/KameniAlexNea/codewards/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/KameniAlexNea/codewards/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/KameniAlexNea/codewards/tree/master/0485-max-consecutive-ones) |
 | [1014-k-closest-points-to-origin](https://github.com/KameniAlexNea/codewards/tree/master/1014-k-closest-points-to-origin) |
 | [1470-shuffle-the-array](https://github.com/KameniAlexNea/codewards/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/KameniAlexNea/codewards/tree/master/1929-concatenation-of-array) |
