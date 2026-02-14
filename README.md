@@ -47,6 +47,7 @@ Code wards participation
 | [0485-max-consecutive-ones](https://github.com/KameniAlexNea/codewards/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/KameniAlexNea/codewards/tree/master/0645-set-mismatch) |
 | [1014-k-closest-points-to-origin](https://github.com/KameniAlexNea/codewards/tree/master/1014-k-closest-points-to-origin) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KameniAlexNea/codewards/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/KameniAlexNea/codewards/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/KameniAlexNea/codewards/tree/master/1929-concatenation-of-array) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/KameniAlexNea/codewards/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -69,6 +70,7 @@ Code wards participation
 | [0347-top-k-frequent-elements](https://github.com/KameniAlexNea/codewards/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/KameniAlexNea/codewards/tree/master/0645-set-mismatch) |
 | [1014-k-closest-points-to-origin](https://github.com/KameniAlexNea/codewards/tree/master/1014-k-closest-points-to-origin) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KameniAlexNea/codewards/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/KameniAlexNea/codewards/tree/master/1777-determine-if-two-strings-are-close) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/2586-longest-square-streak-in-an-array) |
 ## Linked List
@@ -121,6 +123,7 @@ Code wards participation
 | [0229-majority-element-ii](https://github.com/KameniAlexNea/codewards/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/KameniAlexNea/codewards/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/KameniAlexNea/codewards/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KameniAlexNea/codewards/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/KameniAlexNea/codewards/tree/master/1777-determine-if-two-strings-are-close) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/2586-longest-square-streak-in-an-array) |
 ## Union Find
@@ -205,4 +208,8 @@ Code wards participation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/KameniAlexNea/codewards/tree/master/1929-concatenation-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KameniAlexNea/codewards/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
