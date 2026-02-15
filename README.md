@@ -40,6 +40,7 @@ Code wards participation
 | [0047-permutations-ii](https://github.com/KameniAlexNea/codewards/tree/master/0047-permutations-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KameniAlexNea/codewards/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/KameniAlexNea/codewards/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KameniAlexNea/codewards/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KameniAlexNea/codewards/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KameniAlexNea/codewards/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/KameniAlexNea/codewards/tree/master/0229-majority-element-ii) |
@@ -140,6 +141,7 @@ Code wards participation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KameniAlexNea/codewards/tree/master/0029-divide-two-integers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KameniAlexNea/codewards/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/KameniAlexNea/codewards/tree/master/0445-add-two-numbers-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/KameniAlexNea/codewards/tree/master/1014-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KameniAlexNea/codewards/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -165,6 +167,7 @@ Code wards participation
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KameniAlexNea/codewards/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/KameniAlexNea/codewards/tree/master/0445-add-two-numbers-ii) |
 | [0937-online-stock-span](https://github.com/KameniAlexNea/codewards/tree/master/0937-online-stock-span) |
 ## Heap (Priority Queue)
